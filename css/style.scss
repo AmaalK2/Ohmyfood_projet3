@@ -59,7 +59,6 @@ main .city
 {
   color: white;
   font-weight: bold;
-  font-size: 24px;
   padding: 16px 32px;
   background-image: linear-gradient(to top, rgba(147, 86, 220, 0.9), rgba(255, 121, 218, 0.9) );
   border: none;
@@ -74,3 +73,13 @@ main .city
  transform: scale(1.02);
  opacity: 0.9;
 }
+
+
+
+*/filtre*/ 
+
+.filtre
+{
+  display: flex; 
+}
+
