@@ -165,10 +165,9 @@ main .city
   color: black;
 }
 
-.restaurants_list h2
+.card
 {
-  padding-left: 15px;
-  padding-top: 35px;
+  border: 1px solid black;
 }
 
 
